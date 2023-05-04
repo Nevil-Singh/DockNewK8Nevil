@@ -15,6 +15,6 @@ spec:
     spec:
       containers:
       - name: newdemok8s
-        image: nevilsingh/newdemo:v1
+        image: nevilsingh/newdemo2:v1
         ports:
         - containerPort: 80
